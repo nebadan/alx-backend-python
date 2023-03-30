@@ -1,7 +1,3 @@
-# ALX Backend Python
-
-![Repo size](https://img.shields.io/github/repo-size/nebadan/alx-backend-python)
-![Pep8 style](https://img.shields.io/badge/PEP8-style%20guide-purple?style=round-square)
-![Latest commit](https://img.shields.io/github/last-commit/nebadan/alx-backend-python/main?style=round-square)
+# ALX Backend Pytho
 
 This repo contains projects for learning backend development concepts with __Python__.
